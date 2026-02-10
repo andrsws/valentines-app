@@ -2,7 +2,7 @@
   "name": "My Love ❤️",
   "short_name": "My Love",
   "description": "A private Valentine's Day app gift containing relationship memories, handwritten love letters, and a relationship counter",
-  "start_url": "/",
+"start_url": "/valentines-app/",
   "display": "standalone",
   "background_color": "#FFF5F7",
   "theme_color": "#FF6B9D",
