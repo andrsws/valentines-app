@@ -1,0 +1,8 @@
+{
+  "name": "My Love",
+  "short_name": "❤️",
+  "start_url": "/valentines-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5c8a"
+}
